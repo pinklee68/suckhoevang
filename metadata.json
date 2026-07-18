@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Trình Tạo Kịch Bản Video Hoạt Hình Sức Khỏe",
+  "description": "Website tạo kịch bản video viral hoạt hình về chủ đề chăm sóc sức khỏe và mẹo chữa bệnh dân gian kèm prompt tạo ảnh, video lung linh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
